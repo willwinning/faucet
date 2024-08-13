@@ -3,10 +3,10 @@
 
 Sepolia:
 
-- gaswap  http://www.gaswap.top:8061/
+- gaswap  https://gaswap.top
 - PoW  https://sepolia-faucet.pk910.de
 
 
 Holesky
-- gaswap  http://www.gaswap.top:8061/
+- gaswap  https://gaswap.top
 - PoW  https://holesky-faucet.pk910.de
